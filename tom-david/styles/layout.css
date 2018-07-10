@@ -1,0 +1,30 @@
+.heading-group-h1 {
+    background-color: #FFFF99;
+    margin-top: 0;
+}
+
+section h1 {
+    margin-top: 0;
+    padding-top: 15px;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+/*div {*/
+    /*width: 100%;*/
+/*}*/
+
+div ul {
+    display: none;
+}
+
+div ul .icon-menu :hover   {
+    display: block;
+    left: 0;
+    list-style: none;
+    text-align: left;
+    position: absolute;
+    top: 110px;
+}
